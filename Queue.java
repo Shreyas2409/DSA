@@ -77,7 +77,7 @@ void deQueue(){
     System.out.println("Front value is: " + arr[f]);
   }
 
-  public static void Main(String[] args) {
+  public static void main(String[] args) {
     Queue myQueue = new Queue();
     
     myQueue.enQueue(3);
