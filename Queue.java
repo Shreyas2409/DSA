@@ -83,6 +83,7 @@ void deQueue(){
     myQueue.enQueue(3);
     myQueue.enQueue(2);
     myQueue.enQueue(1);
+    myQueue.deQueue();
 
     
     myQueue.display();
