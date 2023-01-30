@@ -1,5 +1,4 @@
-import java.util.*;
-import java.io.*;
+
 
 
 public class Stack {
@@ -38,8 +37,6 @@ public class Stack {
 
     public String toString(){
         StringBuilder sb = new StringBuilder();
-        
-        int index = top;
         
         while(top != -1){
             sb.append(arr[top]).append(" ");

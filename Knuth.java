@@ -1,3 +1,6 @@
+import java.io.*;
+import java.util.*;
+
 public class Knuth {
 
     // this class should not be instantiated
